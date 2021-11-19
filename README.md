@@ -1,9 +1,10 @@
-<!DOCTYPE html>
+
 <html>
 <head>
-	<title>Sayt_03</title><link rel="icon" type="text/css" href="python.jpg">
-	<link rel="stylesheet" type="text/css" href="Sayt.css">
+
 </head>
+        <title>Sayt_03</title><link rel="icon" type="text/css" href="python.jpg">
+	<link rel="stylesheet" type="text/css" href="Sayt.css">
 <body>
 <header class="header_010">
 	  		<div class="logo">
