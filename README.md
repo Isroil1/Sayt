@@ -3,10 +3,10 @@
 <head>
 
 </head>
-        
+ <link rel="stylesheet" type="text/css" href="sayt.css">
 <body>
 
-	<link rel="stylesheet" type="text/css" href="sayt.css">
+	
 <header class="header_010">
 	  		<div class="logo">
 	  		  <img src="Shape.png">
