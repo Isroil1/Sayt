@@ -5,7 +5,7 @@
 </head>
         
 <body>
-	<title>Sayt_03</title><link rel="icon" type="text/css" href="python.jpg">
+
 	<link rel="stylesheet" type="text/css" href="sayt.css">
 <header class="header_010">
 	  		<div class="logo">
