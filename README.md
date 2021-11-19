@@ -3,7 +3,6 @@
 <head>
 
 </head>
- <link rel="stylesheet" type="text/css" href="sayt.css">
 <body>
 
 	
